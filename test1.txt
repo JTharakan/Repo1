@@ -1,0 +1,10 @@
+ Volume in drive C is PC COE
+ Volume Serial Number is 8E04-2A00
+
+ Directory of C:\MyProject
+
+03/07/2018  10:48 AM    <DIR>          .
+03/07/2018  10:48 AM    <DIR>          ..
+03/07/2018  10:48 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  105,574,715,392 bytes free
